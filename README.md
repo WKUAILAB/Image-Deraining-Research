@@ -2,20 +2,32 @@
 This is a repository that contains research resources for single image deraining.
 
 # Datasets
-## Synthetic Datasets
+## Synthetic Rain
 * Rain12
-* Rain100L
-* Rain100H
+* Rain100 (L&H)
 * Rain800
 * Rain1400
 * Rain12600
+* Test100
+* Test1200
+* Test1400
+* Test2800
 
-## Real Rain Datasets
+## Real Rain
 * SPA-Data
-* TODO: add more
+* Yang 
+* Zhang
+* RID
+* RIS
+* Rain Mist
+* Rain Drop
+* Rain Streak
+
+## Rain Drop
+* Raindrop
 
 ## Others
-
+* RainCityScapes
 
 # Metrics
 ## Referenced
