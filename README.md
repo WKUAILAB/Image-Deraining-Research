@@ -41,10 +41,12 @@ This is a repository that contains research resources for single image deraining
   * Use unpaired training data with natural (real-world) rains
 
 * Single image deraining: From model-based to data-driven and beyond (PAMI 2020) [[paper](https://arxiv.org/pdf/1912.07150.pdf)]
-  * 
-  *
-  *
-  
+  * Combine Model-driven and Data-driven (e.g., deep unroll)
+  * Semi/unsupervised learning, domain adaptation, transfer learning 
+  * Fast, small, robust video deraining
+  * Deraining as Task-specific preprocessing
+  * Multi-task learning (e.g., with snow, haze)
+
 * Single Image Deraining: A Comprehensive Benchmark Analysis (CVPR 2019) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Single_Image_Deraining_A_Comprehensive_Benchmark_Analysis_CVPR_2019_paper.pdf)]
 
 * A Survey on Rain Removal from Video and Single Image (Arxiv 2019) [[paper](https://arxiv.org/pdf/1909.08326.pdf)]
