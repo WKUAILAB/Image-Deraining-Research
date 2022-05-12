@@ -1,7 +1,7 @@
 # Image-Deraining-Research
 This is a repository that contains research resources for single image deraining.
 
-# Paper (from latest to oldest)
+# Paper 
 
 ## CVPR 2022
 * Towards Robust Rain Removal Against Adversarial Attacks: A Comprehensive Benchmark Analysis and Beyond [[paper](https://arxiv.org/pdf/2203.16931.pdf)]
@@ -36,9 +36,15 @@ This is a repository that contains research resources for single image deraining
 
 # Survey (TODO: summarized future work for each survey)
 * A Survey of Single Image De-raining in 2020 (Arxiv 2020) [[paper](https://www.researchgate.net/profile/Hasal-Fernando/publication/351657582_A_Survey_of_Single_Image_De-raining_in_2020/links/612bb9082b40ec7d8bd0255d/A-Survey-of-Single-Image-De-raining-in-2020.pdf)]
+  * Solve Over-derain, Under-derain, and residual artifacts
+  * Simplfy network architectures and modules
+  * Use unpaired training data with natural (real-world) rains
 
 * Single image deraining: From model-based to data-driven and beyond (PAMI 2020) [[paper](https://arxiv.org/pdf/1912.07150.pdf)]
-
+  * 
+  *
+  *
+  
 * Single Image Deraining: A Comprehensive Benchmark Analysis (CVPR 2019) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Single_Image_Deraining_A_Comprehensive_Benchmark_Analysis_CVPR_2019_paper.pdf)]
 
 * A Survey on Rain Removal from Video and Single Image (Arxiv 2019) [[paper](https://arxiv.org/pdf/1909.08326.pdf)]
