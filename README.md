@@ -61,7 +61,7 @@ This is a repository that contains research resources for single image deraining
 
 * Single Image Deraining: A Comprehensive Benchmark Analysis (CVPR 2019) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Single_Image_Deraining_A_Comprehensive_Benchmark_Analysis_CVPR_2019_paper.pdf)]
 
-* A Survey on Rain Removal from Video and Single Image [[paper](https://arxiv.org/pdf/1909.08326.pdf)]
+* A Survey on Rain Removal from Video and Single Image (Arxiv 2019) [[paper](https://arxiv.org/pdf/1909.08326.pdf)]
 
 
 # Related Repository
