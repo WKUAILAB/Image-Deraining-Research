@@ -34,7 +34,7 @@ This is a repository that contains research resources for single image deraining
 * Memory Oriented Transfer Learning for Semi-Supervised Image Deraining [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Huang_Memory_Oriented_Transfer_Learning_for_Semi-Supervised_Image_Deraining_CVPR_2021_paper.pdf)]
 
 
-# Survey
+# Survey (TODO: summarized future work for each survey)
 * A Survey of Single Image De-raining in 2020 (Arxiv 2020) [[paper](https://www.researchgate.net/profile/Hasal-Fernando/publication/351657582_A_Survey_of_Single_Image_De-raining_in_2020/links/612bb9082b40ec7d8bd0255d/A-Survey-of-Single-Image-De-raining-in-2020.pdf)]
 
 * Single image deraining: From model-based to data-driven and beyond (PAMI 2020) [[paper](https://arxiv.org/pdf/1912.07150.pdf)]
