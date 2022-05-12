@@ -3,11 +3,31 @@ This is a repository that contains research resources for single image deraining
 
 # Datasets
 ## Synthetic Datasets
+* Rain12
+* Rain100L
+* Rain100H
+* Rain800
+* Rain1400
+* Rain12600
 
 ## Real Rain Datasets
+* SPA-Data
+* TODO: add more
+
+## Others
+
 
 # Metrics
-TODO
+## Referenced
+* PSNR
+* SSIM
+* VIF
+* FSIM
+
+## Non-reference
+* NIQE
+* BRISQUE
+* SSEQ
 
 # Paper (from latest to oldest)
 
@@ -49,5 +69,7 @@ TODO
 [Survey1](https://github.com/hongwang01/Video-and-Single-Image-Deraining)
 
 [Survey2](https://github.com/panda-lab/Single-Image-Deraining)
+
+[Survey3](https://github.com/nnUyi/DerainZoo)
 
 
