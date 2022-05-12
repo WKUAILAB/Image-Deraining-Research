@@ -43,8 +43,14 @@ This is a repository that contains research resources for single image deraining
 
 # Paper (from latest to oldest)
 
-* Unpaired Deep Image Deraining Using Dual Contrastive Learning (CVPR 2022) [[paper](https://arxiv.org/pdf/2109.02973.pdf)]
+## CVPR 2022
+* Towards Robust Rain Removal Against Adversarial Attacks: A Comprehensive Benchmark Analysis and Beyond [[paper](https://arxiv.org/pdf/2203.16931.pdf)]
 
+* Unpaired Deep Image Deraining Using Dual Contrastive Learning  [[paper](https://arxiv.org/pdf/2109.02973.pdf)]
+
+* Unsupervised Deraining: Where Contrastive Learning Meets Self-similarity [[paper](https://arxiv.org/pdf/2203.11509.pdf)]
+
+## WACV 2022
 * FLUID: Few-Shot Self-Supervised Image Deraining (WACV 2022) [[paper](https://openaccess.thecvf.com/content/WACV2022/papers/Nandan_FLUID_Few-Shot_Self-Supervised_Image_Deraining_WACV_2022_paper.pdf)]
 
 * Single Image Deraining Network With Rain Embedding Consistency and Layered LSTM (WACV 2022) [[paper](https://openaccess.thecvf.com/content/WACV2022/papers/Li_Single_Image_Deraining_Network_With_Rain_Embedding_Consistency_and_Layered_WACV_2022_paper.pdf)]
